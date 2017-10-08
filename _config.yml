@@ -6,7 +6,7 @@ url: ""
 
 # Delete the lines you don't need
 # about 5 elements are recomended
-github_username:  dashingcode
+github_username:  eun1310434
 #codepen_username: your_codepen_username_goes_here
 facebook_username: 100010803397732
 #vk_username: your_vk_username_goes_here
@@ -24,9 +24,9 @@ instagram_username:  jeuntaek
 #tumblr_username: your_tumblr_username_goes_here
 #weibo_username: your_weibo_username_goes_here
 #lastfm_username: your_lastfm_username_goes_here
-#blog_url: "/blog"
-email: eun1310434@naver.com
-public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+blog_url: "http://blog.naver.com/eun1310434"
+#email: eun1310434@naver.com
+#public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
 
 avatar: yes
